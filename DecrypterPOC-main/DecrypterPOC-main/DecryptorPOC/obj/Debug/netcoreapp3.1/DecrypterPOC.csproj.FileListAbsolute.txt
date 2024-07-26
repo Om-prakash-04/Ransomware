@@ -1,0 +1,13 @@
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.exe
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.deps.json
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.runtimeconfig.json
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.runtimeconfig.dev.json
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.dll
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.pdb
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.AssemblyInfoInputs.cache
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.AssemblyInfo.cs
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.csproj.CoreCompileInputs.cache
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.dll
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.pdb
+C:\New folder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.genruntimeconfig.cache
